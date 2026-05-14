@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Landsteiner Ferreira 👋
 
-<!--
-**landsteinerferreira/landsteinerferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Sistemas focado em construir soluções escaláveis e inteligentes. Atualmente, dedico-me a arquiteturas de backend de alto desempenho e à integração de agentes de IA para automação de processos.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens & Frameworks:** Python (Django), LangChain.
+- **Infraestrutura & Deploy:** Oracle Cloud (OCI), Nginx, uWSGI, Docker.
+- **Banco de Dados:** PostgreSQL.
+- **IA & Automação:** LangChain, Agentes de IA, Ollama.
+
+### 🚀 Projetos em Destaque
+
+- **Sistema de Gerenciamento Urbano (SGU):** Uma plataforma completa para gestão e interação cidadã, utilizando Django e PostgreSQL
+- https://solicitacidadao.duckdns.org/
+- https://solicitacidade.duckdns.org/login/?next=/solicitacoes/.
+- **Automações com IA:** Desenvolvimento de workflows inteligentes para otimização de processos e tomada de decisão.
+- **Paper Criativo:** Estruturação de e-commerce personalizado focado em experiência do usuário.
+
+### 📊 Estatísticas do GitHub
+
+![Estatísticas de landsteinerferreira](https://github-readme-stats.vercel.app/api?username=landsteinerferreira&show_icons=true&theme=tokyonight)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=landsteinerferreira&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK-DO-SEU-PERFIL](https://br.linkedin.com/in/landsteiner-ferreira-da-silva-6ba49953))
