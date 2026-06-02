@@ -27,4 +27,4 @@ Analista de Sistemas focado em construir soluções escaláveis e inteligentes. 
 
 ### 📫 Como me encontrar
 
-[[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK-DO-SEU-PERFIL](https://br.linkedin.com/in/landsteiner-ferreira-da-silva-6ba49953))](https://br.linkedin.com/in/landsteiner-ferreira-da-silva-6ba49953)
+https://br.linkedin.com/in/landsteiner-ferreira-da-silva-6ba49953
