@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="ttl dsc">
+  <title id="ttl">Landsteiner Ferreira da Silva · Analista de Sistemas e Desenvolvedor Backend</title>
+  <desc id="dsc">Banner de perfil com nome, funcao, stack principal e formacao.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08131a"/>
+      <stop offset="0.55" stop-color="#0a1c28"/>
+      <stop offset="1" stop-color="#0d2a3c"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2f93ff"/>
+      <stop offset="1" stop-color="#0057c2"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.86" cy="0.18" r="0.72">
+      <stop offset="0" stop-color="#0064e0" stop-opacity="0.40"/>
+      <stop offset="1" stop-color="#0064e0" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="28" fill="url(#glow)"/>
+  <rect width="1280" height="360" rx="28" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="1279" height="359" rx="27.5" fill="none" stroke="#1e3446" stroke-width="1"/>
+
+  <text x="64" y="66" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="3.2" fill="#4d9bff">ANALISTA DE SISTEMAS &#183; DESENVOLVEDOR BACKEND</text>
+  <rect x="64" y="80" width="72" height="5" rx="2.5" fill="#0064e0"/>
+
+  <text x="64" y="162" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">Landsteiner Ferreira da Silva</text>
+
+  <text x="64" y="208" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="19" fill="#9fb3c8">Python &#183; Django &#183; PostgreSQL &#183; Docker &#183; Nginx &#183; Oracle Cloud &#183; Agentes de IA</text>
+
+  <text x="64" y="258" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#7d93a6">P&#243;s-graduado em Engenharia de Software pela USP/Esalq</text>
+
+  <text x="64" y="312" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#5f7488">github.com/landsteinerferreira</text>
+
+  <rect x="1080" y="112" width="128" height="128" rx="34" fill="url(#mark)"/>
+  <text x="1144" y="194" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">LF</text>
+</svg>
